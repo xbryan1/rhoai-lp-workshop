@@ -1,4 +1,4 @@
-= Red Hat OpenShift Data Science Workshop - Licence plate recognition
+= Red Hat OpenShift AI Workshop - Licence plate recognition
 :page-layout: home
 :!sectids:
 
@@ -7,7 +7,7 @@
 
 Welcome!
 
-In this introductory workshop, you'll learn how to use *Red Hat OpenShift Data Science* to recognize licence plates in car pictures, and extract the number from this plate.
+In this introductory workshop, you'll learn how to use *Red Hat OpenShift AI* to recognize licence plates in car pictures, and extract the number from this plate.
 
 * We'll start from an image like this:
 
@@ -19,6 +19,6 @@ image::plate.png[alt text]
 
 * From which we will recognize the plate number, *S7JDW* !
 
-And all of this without having to install anything on your own computer, thanks to *Red Hat OpenShift Data Science*!
+And all of this without having to install anything on your own computer, thanks to *Red Hat OpenShift AI*!
 
 If you're ready,  xref:01-start-jupyter.adoc[let's start!]
