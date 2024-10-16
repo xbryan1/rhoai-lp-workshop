@@ -19,7 +19,7 @@ image::select_project.png[alt text]
 
 image::from_git.png[alt text]
 
-* In the ``Git Repo URL``field, enter: `+https://github.com/rh-aiservices-bu/licence-plate-workshop.git+`
+* In the ``Git Repo URL``field, enter: `+https://github.com/xbryan1/licence-plate-workshop.git+`
 
 image::git_repo.png[alt text]
 
@@ -27,11 +27,11 @@ image::git_repo.png[alt text]
 
 image::app_branch.png[alt text]
 
-* By default, OpenShift will want to use the builder image called **Python 3.9 (UBI8)**. You will want to edit the Import Strategy:
+* By default, OpenShift will want to use the builder image called **Python 3.11 (UBI9)**. You will want to edit the Import Strategy:
 
 image::edit_import_strategy.png[alt text]
 
-* The image to choose in the dropdown list is **3.8-ubi7**
+* The image to choose in the dropdown list is **3.9-ubi8**
 
 image::pinned_builder_image.png[alt text]
 
