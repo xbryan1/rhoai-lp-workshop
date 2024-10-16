@@ -1,1 +1,1 @@
-https://redhat-scholars.github.io/rhods-lp-workshop
+https://xbryan1.github.io/rhoai-lp-workshop/
